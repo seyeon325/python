@@ -16,4 +16,4 @@ canvas.create_image(200, 300, image=gazou)
 root.mainloop()
 
 
-#루트 -> 캔버스 -> 백그라운드z
+#루트 -> 캔버스 -> 백그라운드
