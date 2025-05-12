@@ -4,6 +4,7 @@ inFile = opne("test.txt", "r", encoding="UFT-8")
 
 outfile = open("outTest.txt", "w", encoding="UFT-8")
 
+# 파일 읽어서 쓰기
 while True:
     strFile = inFile.readline()
     if(str == ""):
